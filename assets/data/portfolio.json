@@ -1,0 +1,22 @@
+{
+    "portfolio" : [
+        {
+            "title": "Sports Up",
+            "image_path": "./assets/images/sportsup.png",
+            "web_link": "https://sportsup.g-alexis.com",
+            "github_link": "https://github.com/G-alexis-Fr/sportsEvent"
+        },
+        {
+            "title": "Windows95 React",
+            "image_path": "./assets/images/windows95.png",
+            "web_link": "http://portfolio.g-alexis.com",
+            "github_link": "https://github.com/G-alexis-Fr/windows95-portfolio"
+        },
+        {
+            "title": "CapCoree",
+            "image_path": "./assets/images/capcoree.png",
+            "web_link": "https://capcoree.g-alexis.com/",
+            "github_link": "https://github.com/G-alexis-Fr/capcoreeWebsite"
+        }
+    ]
+}

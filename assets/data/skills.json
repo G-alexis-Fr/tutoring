@@ -1,0 +1,40 @@
+{
+    "skills" : [
+        {
+            "title": "Javascript",
+            "image_path": "./assets/images/javascript-s.png",
+            "text": "Familiar with the latest updates on the language as well as hands-on experience with ES6, ES7 and ES8.⚙️",
+            "confidence": 8
+        },
+        {
+            "title": "React",
+            "image_path": "./assets/images/react-s.png",
+            "text": "Component-based structure and life cycle methods of this framework make it my favourite front-end tool.🔧",
+            "confidence": 8
+        },
+        {
+            "title": "Node",
+            "image_path": "./assets/images/node-js-s.png",
+            "text": "Nodejs is one of my favourite backend tools to work with and npm is best package management tool.🔨",
+            "confidence": 6
+        },
+        {
+            "title": "Mongo DB",
+            "image_path": "./assets/images/mongodb-s.png",
+            "text": "I have taken courses from Mongo DB University and managed to integrate Mongo DB databases into my projects.",
+            "confidence": 7
+        },
+        {
+            "title": "Django (Python)",
+            "image_path": "./assets/images/python-s.png",
+            "text": " This is my favourite back-end tool to work with and its ease of extensibility is worth some credits.",
+            "confidence": 7
+        },
+        {
+            "title": "Linux",
+            "image_path": "./assets/images/linux-s.png",
+            "text": "Linux stands out for its huge capacities for extending the server and cusomizing it based on my needs.",
+            "confidence": 8
+        }
+    ]
+}
